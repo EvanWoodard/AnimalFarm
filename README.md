@@ -26,3 +26,7 @@ Run with the java runtime
 ```
 java main.java
 ```
+
+### Useful VSCode extensions
+
+Java Extension Pack
