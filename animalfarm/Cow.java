@@ -14,4 +14,8 @@ public class Cow extends FarmAnimal {  // Private can't be used on a top level c
     public void speak() {
         System.out.println("Mooo");
     }
+
+    public int getLegs() {
+        return 4;
+    }
 }

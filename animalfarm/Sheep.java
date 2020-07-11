@@ -10,4 +10,8 @@ public class Sheep extends FarmAnimal {
     public void speak() {
         System.out.println("Baaaa...");
     }
+
+    public int getLegs() {
+        return 4;
+    }
 }
