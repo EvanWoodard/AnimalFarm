@@ -12,6 +12,6 @@ public class Sheep extends FarmAnimal {
     }
 
     public int getLegs() {
-        return 4;
+        return 2;
     }
 }
