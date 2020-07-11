@@ -30,3 +30,7 @@ java main.java
 ### Useful VSCode extensions
 
 Java Extension Pack
+
+### Start Testing
+
+With [JUnit](https://junit.org/junit5/docs/current/user-guide/#overview-getting-started)
